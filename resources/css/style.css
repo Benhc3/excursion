@@ -1,0 +1,20 @@
+/* Universal Styles */
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    font-size: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+h2{
+    
+}
+.cta{
+    color:aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
